@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-HUMANOREAL-2E3440?style=flat-square&logo=Linkedin&logoColor=88C0D0&link=https://www.linkedin.com/in/HUMANOREAL/)](https://www.linkedin.com/in/HUMANOREAL/) 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC08GfqsYI_Syim1YroVscpw?color=2E3440&label=HUMANOREAL&logo=Youtube&logoColor=%23BF616A&style=flat-square)
 [![Gmail Badge](https://img.shields.io/badge/-humanorealboy@gmail.com-2E3440?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humanorealboy@gmail.com)](mailto:humanorealboy@gmail.com)
-![Discord](https://img.shields.io/discord/936008260908105789?color=2E3440&label=Discord%20Nord%20hp&logo=discord&logoColor=5E81AC)
+![Discord](https://img.shields.io/discord/936008260908105789?color=2E3440&label=Frior%20Frost&logo=discord&logoColor=5E81AC)
 
 ## Um pouco sobre mim
 ### Entusiasta de todas as tecnologias que existem.
